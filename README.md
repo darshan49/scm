@@ -1,3 +1,7 @@
 # scm
+ master
+this is in master
+=======
 this is for practice
-this is for demo
+ demo
+hello
